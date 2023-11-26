@@ -1,6 +1,6 @@
 # Webshop-kodus
 
-Lisa järgmised täiendused:
+# Lisa järgmised täiendused:
 
 •	Igale Controllerile ResponseEntity tagastus
 
@@ -9,14 +9,14 @@ Lisa järgmised täiendused:
 •	Uuri igat kollast kasti, mis koodis on ning mõtle, kas seda saab parandada
 
 
-Leia ja paranda järgmised bugid:
+# Leia ja paranda järgmised bugid:
 
 •	Tellimus ei salvestata õige inimese külge
 
 •	Tellimuse kogusumma ei ole korrektne
 
 
-Vii sisse järgmised arendused:
+# Vii sisse järgmised arendused:
 
 •	Lehekülgede kaupa toodete näitamise võimekus
 
